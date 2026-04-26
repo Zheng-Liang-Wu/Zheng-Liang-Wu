@@ -35,7 +35,7 @@
 
 ### 🛠️ 精選專案 (Selected Projects)
 - **[TicketWebsite - Java 全端開發](https://github.com/Zheng-Liang-Wu/TicketWebsite)** 
-  - 使用 Spring Boot 與 MariaDB 建立，並實作基礎的安全防護邏輯。 
+  - 使用 Spring Boot 與 MariaDB 建立。 
 - **[Linux 學習紀錄與資安筆記](你的紀錄連結)**
   - 整理常用的 Linux 指令、Firewall 配置與網路分析心得。 
 ---
