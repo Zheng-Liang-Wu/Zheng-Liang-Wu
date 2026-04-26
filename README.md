@@ -3,7 +3,14 @@
 ### 🚀 正在轉職中的資安工程師 | Security Engineer Trainee
 
 - 🎓 **背景**：國立屏東科技大學熱帶農業系畢業
-- 🛡️ **證照**：[ISC2 Certified in Cybersecurity (CC)](https://你的證照連結)
+- 🛡️ **證照**：ISC2 Certified in Cybersecurity (CC)
+  <details>
+  <summary>📜 點擊查看相關證照與證書 (Certificates)</summary>
+
+  ### ISC2 Certified in Cybersecurity (CC)
+  ![ISC2 CC 證照](01.png)
+
+  </details>
 - 💻 **技術棧**：
   - **開發環境**：Java (Spring Boot), Python, SQL (MariaDB)
   - **系統/網路**：Linux (Ubuntu), TCP/IP 協定分析
