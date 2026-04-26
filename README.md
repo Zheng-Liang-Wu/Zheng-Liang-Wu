@@ -34,8 +34,9 @@
 ---
 
 ### 🛠️ 精選專案 (Selected Projects)
-- **[TicketWebsite - Java 全端開發](https://github.com/Zheng-Liang-Wu/TicketWebsite)** 
-  - 使用 Spring Boot 與 MariaDB 建立。
+- [TicketWebsite - 購票系統開發](https://github.com/Zheng-Liang-Wu/TicketWebsite)基於 Spring Boot 與 MariaDB 打造的全端 Web 應用。
+    - **核心實作**：獨立完成 MVC 架構設計、使用者認證與資料庫 CRUD 操作。
+    - **邏輯處理**：實作 Session 狀態管理與動態票券庫存更新，確保系統資料一致性與流暢的操作體驗。
 - **[麻將台數計算機](https://github.com/Zheng-Liang-Wu/Mahjong-Score-Calculator)**
   - 為解決家人聚會計分爭議而開發的 Web 工具。透過原生 JavaScript 處理複雜的連莊與自摸邏輯，並從中實踐前端輸入驗證與資料完整性檢查。
 - **[Linux 學習紀錄與資安筆記](你的紀錄連結)**
