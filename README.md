@@ -19,5 +19,5 @@
 
 ### 📫 如何聯絡我
 - **Email**: a22852206@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/政亮-吳-814911315]
+- **LinkedIn**: https://www.linkedin.com/in/政亮-吳-814911315
 
