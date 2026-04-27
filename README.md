@@ -3,7 +3,7 @@
 ### 🚀 轉職中的資安工程師 | Security Engineer Trainee
 
 - 💻 **技術棧**：
-  - **開發安全**：Linux, Java(Spring Boot), Python, SQL (MariaDB)
+  - **開發安全**：Java(Spring Boot), Python, SQL (MariaDB)
   - **系統網路**：Linux (Ubuntu), TCP/IP 協定分析, SSH 
 - 🛡️ **專業證照**：ISC2 Certified in Cybersecurity (CC) 
 - 🎯 **求職目標**：目前積極準備 **CCNA** 中，尋求台中地區 SOC 分析師或資安職務。
