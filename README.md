@@ -18,16 +18,23 @@
   #### 🛡️ 資訊安全專業認證
   - **ISC2 Certified in Cybersecurity (CC)**
   - 於 2026 年考取，掌握資安五大領域基礎。
-  - ![ISC2 CC 證照](01.png)
+   ![ISC2 CC 證照](01.png)
 
   #### ☕ 程式開發技術訓練
   - **Java 全端開發就業養成班 - 結訓證書** 
   - 涵蓋 Spring Boot 框架與 MariaDB 資料庫應用。 
-  - ![Java 結訓證明](02.jpg)
+   ![Java 結訓證明](02.jpg)
 
   #### 🎓 學士學位
   - **國立屏東科技大學 - 熱帶農業系** 
-  - ![畢業證書](03.jpg)
+   ![畢業證書](03.jpg)
+
+  ### 🌐 語言能力 (Languages)
+  - **中文 (Mandarin)** - 母語
+  - **英文 (English)** - 中級 (**TOEIC 650**)
+  - 能夠理解英文技術文件與開發者論壇內容。
+  - 具備撰寫基礎英文說明文件 (**Documentation**) 的能力。
+  ![多益證明](04.jpg)
 
 </details>
 
