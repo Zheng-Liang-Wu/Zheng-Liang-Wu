@@ -41,8 +41,8 @@
 ---
 
 ### 🛠️ 精選專案 (Selected Projects)
-- **[Linux 學習紀錄與資安筆記](https://github.com/Zheng-Liang-Wu/Linux-SQL-Security-Notes)**
-  - 整理常用的 Linux 指令、Firewall 配置與網路分析心得。 
+- **[Linux 和 SQL 學習紀錄](https://github.com/Zheng-Liang-Wu/Linux-SQL-Security-Notes)**
+  - 整理常用的 Linux 和 SQL 指令及基本觀念。 
 - [TicketWebsite - 購票系統開發](https://github.com/Zheng-Liang-Wu/TicketWebsite)基於 Spring Boot 與 MariaDB 打造的全端 Web 應用。
     - **核心實作**：獨立完成 MVC 架構設計、使用者認證與資料庫 CRUD 操作。
     - **邏輯處理**：實作 Session 狀態管理與動態票券庫存更新，確保系統資料一致性與流暢的操作體驗。
