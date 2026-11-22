@@ -6,7 +6,7 @@
   - **開發安全**：Java(Spring Boot), Python, SQL (MariaDB)
   - **系統網路**：Linux (Ubuntu), TCP/IP 協定分析, SSH 
 - 🛡️ **專業證照**：CCNA、ISC2 Certified in Cybersecurity (CC) 
-- 🎯 **求職目標**：目前積極準備 **CCNA** 中，尋求台中地區 SOC 分析師或資安職務。
+- 🎯 **求職目標**：尋求台中地區網路管理工程師、雲端工程師。
 
 ---
 
